@@ -18,7 +18,8 @@ class Solution {
     
             while(j < word2.size()){
                 ans += word2[j] ; 
-                j++ ; 
+                j++ ;
+                 
             }
     
             return ans ; 
